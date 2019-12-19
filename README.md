@@ -75,4 +75,6 @@ Given a record, determine whether the record is Musk (1) or Non-Musk (0).
   - Test Accuracy: 0.999
   - F1 Score:  1.0
   
+ #### 5 Graph
+  - (Accuracy vs epochs) and (Loss vs Epochs)
 ![alt text](Graph.png)
