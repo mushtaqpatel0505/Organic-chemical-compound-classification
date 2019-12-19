@@ -75,4 +75,4 @@ Given a record, determine whether the record is Musk (1) or Non-Musk (0).
   - Test Accuracy: 0.999
   - F1 Score:  1.0
   
-![alt text](https://github.com/mushtaqpatel0505/Organic-chemical-compound-classification/Graph.png)
+![alt text](Graph.png)
